@@ -1,0 +1,15 @@
+{
+  "name": "stca_fy24_kickoff_edgesa_redpacket",
+  "version": "1.0.0",
+  "description": "STCA Edge&SA Red Package program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Halton Huo<halton.huo@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-useragent": "^1.0.15"
+  }
+}
